@@ -1,0 +1,10 @@
+{
+  "name": "Shaadi Studio",
+  "short_name": "Shaadi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#7A1C1C",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
